@@ -1,0 +1,48 @@
+li { 
+	display: inline;
+	font-family: Arial;
+	font-size: 30px;
+}
+ul {
+	padding-left: 0px;
+	text-align: center;
+
+}
+p {
+	display: inline;
+	font-family: Arial;
+	color: #333333;
+	margin: 20px 20px 20px 20px
+}		
+a:link {
+	color: green;
+	text-decoration: none;
+}
+a:visited {
+	color: MediumSeaGreen;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+body {
+	text-align: center;
+	font-family: Arial;
+}
+textarea {
+   resize: none;
+}
+
+#sonumid {
+	overflow: scroll; 
+	height:250px;
+	width: 350px;
+	margin:0 auto;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	text-align: left;
+}
